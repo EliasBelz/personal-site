@@ -16,5 +16,5 @@ Guest lecture I co-hosted for into to web programming at UW
 AI translation and dubbing for content creators
 ## [[Ski-GPT]]
 Rad ski sales chatbot
-## [[Illustraitor]]
+## [[Illustr(AI)tor]]
 > [!duck] Dubhacks 2022 winner by technicality 

@@ -1,1 +1,1 @@
-This is a place to talk about myself, work, and interests. It is somewhere between a personal website, portfolio and, blog. 
+This is a place to talk about myself, work, and interests. It is somewhere between a personal website, portfolio, and blog. 
