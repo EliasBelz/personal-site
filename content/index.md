@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: "Welcome"
 ---
+> [!duck] Hello, my name is Elias. I'm a software developer based in Seattle
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I recently graduated from the [[University of Washington]].
+
+Checkout some of my past [[Project README|projects]] or see the places ive worked [[Work|worked]].

@@ -1,3 +1,70 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Black and Purple Theme
+:root {
+  --light: #0f0f14;
+  --lightgray: #1a1a24;
+  --gray: #4e4e5f;
+  --darkgray: #9797b7;
+  --dark: #e7e7ff;
+  --secondary: #9d4edd;
+  --tertiary: #c77dff;
+  --highlight: rgba(157, 78, 221, 0.15);
+  --textHighlight: rgba(199, 125, 255, 0.4);
+}
+
+:root[saved-theme="dark"] {
+  --light: #0a0a12;
+  --lightgray: #161622;
+  --gray: #3d3d50;
+  --darkgray: #bebef0;
+  --dark: #f5f5ff;
+  --secondary: #b14aff;
+  --tertiary: #d78fff;
+  --highlight: rgba(177, 74, 255, 0.2);
+  --textHighlight: rgba(215, 143, 255, 0.4);
+}
+
+// Custom styling for links and buttons
+a {
+  color: var(--secondary);
+  &:hover {
+    color: var(--tertiary);
+  }
+  &.internal {
+    background-color: var(--highlight);
+  }
+}
+
+// Custom styling for headers
+h1, h2, h3, h4, h5, h6 {
+  color: var(--dark);
+}
+
+// Custom styling for code blocks
+pre {
+  border: 1px solid var(--secondary);
+  background-color: rgba(157, 78, 221, 0.05);
+}
+
+// Custom styling for blockquotes
+blockquote {
+  border-left: 3px solid var(--secondary);
+}
+
+// Custom styling for tables
+th {
+  border-bottom: 2px solid var(--secondary);
+}
+
+// Custom styling for selected text
+::selection {
+  background-color: var(--tertiary);
+  color: var(--light);
+}
+
+// Custom styling for the navigation progress bar
+.navigation-progress {
+  background: linear-gradient(90deg, var(--secondary), var(--tertiary));
+  height: 3px;
+}

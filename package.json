@@ -14,7 +14,9 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
+    "dev": "npx quartz build --serve",
     "check": "tsc --noEmit && npx prettier . --check",
+    "sync": "npx quartz sync --no-pull",
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
