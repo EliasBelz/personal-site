@@ -1,4 +1,4 @@
-## Ranked in order of funness
+## Ranked in order of fun factor
 
 >[!duck] [Last.fm](https://www.last.fm/user/ebelz) 
  
