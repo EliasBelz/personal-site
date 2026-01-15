@@ -2,7 +2,7 @@
 tags:
   - navigation
 ---
-> [!abstract] Some projects I've worked recently
+> [!abstract] Some projects I've worked on recently. _Roughly in reverse chronological order_
 ## [[Wikipedia Game]]
 Runner up at AI Tinkerers "Prompt to Production" hackathon
 ## [[Elias Belzberg Creative |Point Grey Pictures Website]]
@@ -13,7 +13,7 @@ Hackathon workshop I hosted on how to build RAG chatbots.
 Realtime group chat app I worked on summer 2024. It works but I kinda let it die :(
 ## [[Smudge]]
 Firefox extension to smudge your browsers finger and avoid trackers
-## [[Web Development TA Staff Websites]]
+## [[Web Development Staff Websites]]
 Staff "about me" website I made while TAing
 ## [[UW Guest Lectures]]
 Guest lecture I co-hosted for into to web programming at UW

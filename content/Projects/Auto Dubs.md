@@ -6,9 +6,9 @@ tags:
   - web
 ---
 AI translation and dubbing service targeted towards youtube content creators.
-
+Check out a demo video here! https://youtu.be/6N_b6GFqI6I?si=gUDMu9Mjwtg8Yse0
 ## Why I stopped
-I realized my unique idea wasn't that unique and after hearing Mark Zuckerberg talk about atomically translating user content to other languages 
+I realized my unique idea wasn't that unique after hearing Mark Zuckerberg talk about how they're working on automatically translating user content to other languages for free so people can get more views on their platforms.
 
 ## What I Regret the Most
 As I predicted, youtube released their own free and automatic version of AI dubbing and just so happened name it [`Automatic dubbing`](https://support.google.com/youtube/answer/15569972?hl=en) making the autodubbed.com domain we used to own worth ten thousand dollars.
