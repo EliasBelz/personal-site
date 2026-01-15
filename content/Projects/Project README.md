@@ -13,7 +13,7 @@ Hackathon workshop I hosted on how to build RAG chatbots.
 ## [[Groupiq]]
 Realtime group chat app I worked on summer 2024. It worked but I kinda let it die :(
 ## [[Smudge]]
-Firefox extension to smudge your browsers fingerprint by randomizing JavaScript to avoid trackers.
+Firefox extension to smudge your browsers fingerprint by randomizing JavaScript attributes.
 ## [[Web Development Staff Websites]]
 Collection of staff "about me" websites I made while TAing
 ## [[UW Guest Lectures]]
@@ -25,4 +25,3 @@ Placed top 36 at Dempsey Startup Competition
 Rad ski sales chatbot
 ## [[Illustr(AI)tor]]
 Dubhacks 2022 winner by technicality 
-
