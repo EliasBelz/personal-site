@@ -1,5 +1,4 @@
 In no particular oder
-
 - Mac Miller
 - Shaq
 - https://www.christinabulldesign.com/
@@ -7,3 +6,5 @@ In no particular oder
 - Trey Parker and Matt Stone
 - Inventor of pizza
 - https://www.mogdogblog.com/home
+- https://www.youtube.com/@BennJordan
+- Gabe Newell
