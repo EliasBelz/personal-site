@@ -1,5 +1,6 @@
-In no particular oder
+In no particular order
 - Mac Miller
+- Demetrious "Mighty Mouse" Johnson
 - Shaq
 - Zeb Powell
 - https://www.christinabulldesign.com/
