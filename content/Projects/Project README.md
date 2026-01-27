@@ -5,8 +5,8 @@ tags:
 > [!abstract] Some projects I've worked on recently. _Roughly in reverse chronological order_
 
 ## [[Boids]]
-Interactive artificial life flocking simulator. 
-Checkout the project here 👉 https://project.ebelz.com/boids
+Interactive artificial life flocking simulator.
+Checkout the project here 👉 https://projects.ebelz.com/boids
 ## [[Wikipedia Game]]
 Runner up at AI Tinkerers "Prompt to Production" hackathon
 ## [[Elias Belzberg Creative |Point Grey Pictures Website]]
