@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
-      tagId: "G-4KN53JHBPK",
+      tagId: "G-82PEH3VCX1",
     },
     locale: "en-US",
     baseUrl: "https://ebelz.com",
