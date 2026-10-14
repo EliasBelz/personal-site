@@ -1,0 +1,2 @@
+- https://burgernet.online/
+- https://strudel.cc/

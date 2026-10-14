@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       tagId: "G-82PEH3VCX1",
     },
     locale: "en-US",
-    baseUrl: "https://ebelz.com",
+    baseUrl: "ebelz.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

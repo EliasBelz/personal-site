@@ -13,4 +13,4 @@ in no particular order (except MSCHF... you guys are so cool)
 - [ ] Valve (always wanted to make a video game)
 
 ## Hiring?
-Checkout my [[Work README|work history]] and [resume](https://flowcv.com/resume/8gga26skr9) to see if I'd be a good fit.
+Check out my [[Work README|work history]] and [resume](https://flowcv.com/resume/8gga26skr9) to see if I'd be a good fit.

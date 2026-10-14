@@ -6,7 +6,7 @@ tags:
 
 ## [[Boids]]
 Interactive artificial life flocking simulator.
-Checkout the project here 👉 https://projects.ebelz.com/boids
+Check out the project here 👉 https://projects.ebelz.com/boids
 ## [[Wikipedia Game]]
 Runner up at AI Tinkerers "Prompt to Production" hackathon
 ## [[Elias Belzberg Creative |Point Grey Pictures Website]]
@@ -17,11 +17,11 @@ Hackathon workshop I hosted on how to build RAG chatbots.
 ## [[Groupiq]]
 Realtime group chat app I worked on summer 2024. It worked but I kinda let it die :(
 ## [[Smudge]]
-Firefox extension to smudge your browsers fingerprint by randomizing JavaScript attributes.
+Firefox extension to smudge your browser's fingerprint by randomizing JavaScript attributes.
 ## [[Web Development Staff Websites]]
 Collection of staff "about me" websites I made while TAing
 ## [[UW Guest Lectures]]
-Guest lecture I co-hosted for into to web programming at UW
+Guest lecture I co-hosted for intro to web programming at UW
 ## [[Auto Dubs]]
 AI translation and dubbing start up for content creators. 
 Placed top 36 at Dempsey Startup Competition

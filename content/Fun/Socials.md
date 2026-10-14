@@ -6,10 +6,10 @@
  
  >[!bug] [Github](https://github.com/EliasBelz)
 
-> [!todo] [LinkedIn](https://www.linkedin.com/eliasbelz)
+> [!todo] [LinkedIn](https://www.linkedin.com/in/eliasbelz)
 
 ## Contact
-belzbergelias@gmail.com
+[belzbergelias@gmail.com](mailto:belzbergelias@gmail.com)
 
 ## Resume
 [link](https://flowcv.com/resume/8gga26skr9)
