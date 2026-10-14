@@ -68,3 +68,31 @@ th {
   background: linear-gradient(90deg, var(--secondary), var(--tertiary));
   height: 3px;
 }
+
+// Float the Prom photobooth strip beside the text on the home page
+article img[src$="prom-photobooth.webp"] {
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+
+  @media (max-width: 600px) {
+    width: 180px;
+    max-width: 55%;
+    margin: 0 0 0.5rem 1rem;
+  }
+}
+
+article h2,
+article .transclude {
+  clear: both;
+}
+
+// Never scroll sideways: base.scss sizes html at 100vw, which includes the
+// scrollbar, and iOS ignores overflow-x: hidden on html/body
+html {
+  width: 100%;
+}
+
+html,
+body {
+  overflow-x: clip;
+}
