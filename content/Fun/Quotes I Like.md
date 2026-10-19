@@ -1,4 +1,4 @@
-> You can fail at what you don't want, so you might as well take a chance on doing what you love.
+> You can fail at what you don’t want, so you might as well take a chance on doing what you love.
 >
 > — _Jim Carrey_
 
@@ -10,10 +10,10 @@
 >
 > — _Arnold Schwarzenegger_
 
-> You can't connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future.
+> You can’t connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future.
 >
 > — _Steve Jobs_
 
 > Never attribute to malice that which is adequately explained by stupidity.
 >
-> — _Hanlon's Razor_
+> — _Hanlon’s Razor_
